@@ -1,0 +1,22 @@
+{
+  "cloudwatch_log_group": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/ecs/enterprise-cicd"
+  },
+  "ecr_repository_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "111708096083.dkr.ecr.us-east-1.amazonaws.com/enterprise-cicd-app"
+  },
+  "ecs_cluster_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "enterprise-cicd-cluster"
+  },
+  "ecs_service_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "enterprise-cicd-service"
+  }
+}
