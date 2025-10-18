@@ -6,7 +6,7 @@ Production-ready CI/CD pipeline demonstrating modern DevOps practices using GitH
 
 ## 🌟 Live Demo
 
-**Application URL:** http://3.92.232.230:3000
+**Application URL:** http://100.24.56.235:3000/
 
 ### Available Endpoints:
 - `GET /health` - Health check endpoint
