@@ -1,6 +1,5 @@
 # 🚀 Enterprise CI/CD Pipeline
 
-[![CI](https://github.com/Khanrukku/enterprise-cicd-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Khanrukku/enterprise-cicd-pipeline/actions/workflows/ci.yml)
 [![CD](https://github.com/Khanrukku/enterprise-cicd-pipeline/actions/workflows/cd.yml/badge.svg)](https://github.com/Khanrukku/enterprise-cicd-pipeline/actions/workflows/cd.yml)
 
 Production-ready CI/CD pipeline demonstrating modern DevOps practices using GitHub Actions, Docker, AWS ECS Fargate, and Terraform.
